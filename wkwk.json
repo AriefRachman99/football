@@ -8,7 +8,7 @@
       "Position": "Goalkeeper",
       "International": "Spain",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/degea.png"
+      "Poster": "http://github.com/ariefrachman99/football/degea.png"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "Position": "Defender",
       "International": "Sweden",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/viktor.png"
+      "Poster": "http://github.com/ariefrachman99/football/viktor.png"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "Position": "Defender",
       "International": "Ivory Coast",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/erik.png"
+      "Poster": "http://github.com/ariefrachman99/football/erik.png"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "Position": "Defender",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/phil.png"
+      "Poster": "http://github.com/ariefrachman99/football/phil.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "Position": "Defender",
       "International": "Argentina",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/rojo.png"
+      "Poster": "http://github.com/ariefrachman99/football/rojo.png"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "Position": "MidFielder",
       "International": "France",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/pogba.png"
+      "Poster": "http://github.com/ariefrachman99/football/pogba.png"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "Position": "Forward",
       "International": "Chile",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/alexis.png"
+      "Poster": "http://github.com/ariefrachman99/football/alexis.png"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "Position": "Attacking MidFielder",
       "International": "Spain",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/mata.png"
+      "Poster": "http://github.com/ariefrachman99/football/mata.png"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "Position": "Striker",
       "International": "Belgium",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/lukaku.png"
+      "Poster": "http://github.com/ariefrachman99/football/lukaku.png"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "Position": "Striker",
       "International": "France",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/martial.png"
+      "Poster": "http://github.com/ariefrachman99/football/martial.png"
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "Position": "Defender",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/smaling.png"
+      "Poster": "http://github.com/ariefrachman99/football/smaling.png"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "Position": "MidFielder",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/lingard.png"
+      "Poster": "http://github.com/ariefrachman99/football/lingard.png"
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "Position": "Goal Keeper",
       "International": "Portugal",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/joel.png"
+      "Poster": "http://github.com/ariefrachman99/football/joel.png"
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "Position": "Forward",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "http://192.168.56.1/pertemuan10/marcus.png"
+      "Poster": "http://github.com/ariefrachman99/football/marcus.png"
     }
   ]
 }
