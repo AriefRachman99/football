@@ -58,7 +58,7 @@
       "Position": "MidFielder",
       "International": "France",
       "Team": "Manchester United",
-      "Poster": "http://github.com/ariefrachman99/football/pogba.png"
+      "Poster": "https://github.com/ariefrachman99/football/pogba.png"
     },
     {
       "id": 7,
@@ -123,7 +123,7 @@
     {
       "id": 13,
       "no": 40,
-      "name": "joel Pereira",
+      "name": "Joel Pereira",
       "birth_date": "1996-01-01",
       "Position": "Goal Keeper",
       "International": "Portugal",
